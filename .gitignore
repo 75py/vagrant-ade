@@ -1,0 +1,5 @@
+.vagrant
+jenkins.war
+jdk-8u51-linux-x64.rpm
+apache-tomcat-8.0.24.tar.gz
+gitbucket.war
