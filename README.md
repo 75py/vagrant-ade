@@ -7,9 +7,9 @@
 
 
 ### Jenkins
-http://localhost:7575/jenkins
+<http://localhost:7575/jenkins>
 
 ### GitBucket
-http://localhost:7575/gitbucket
+<http://localhost:7575/gitbucket>  
 ID/PW: root/root
 
